@@ -1,0 +1,782 @@
+# Copyright (C) 2021 WooCommerce Product Filter Widget for Elementor
+# This file is distributed under the same license as the WooCommerce Product Filter Widget for Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Filter Widget for Elementor 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/qs_tool_wp_pot_gen_1639993564_7122_288072\n"
+"POT-Creation-Date: 2021-12-20 09:46:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: esz-woocommerce-product-filter-widget-for-elementor.php:153
+#: esz-woocommerce-product-filter-widget-for-elementor.php:173
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: esz-woocommerce-product-filter-widget-for-elementor.php:154
+#: esz-woocommerce-product-filter-widget-for-elementor.php:174
+#: esz-woocommerce-product-filter-widget-for-elementor.php:194
+#: esz-woocommerce-product-filter-widget-for-elementor.php:215
+msgid "Live WooCommerce Product Filter Widget for Elementor"
+msgstr ""
+
+#: esz-woocommerce-product-filter-widget-for-elementor.php:155
+#: esz-woocommerce-product-filter-widget-for-elementor.php:195
+msgid "Elementor"
+msgstr ""
+
+#: esz-woocommerce-product-filter-widget-for-elementor.php:175
+msgid "WooCommerce"
+msgstr ""
+
+#: esz-woocommerce-product-filter-widget-for-elementor.php:193
+#: esz-woocommerce-product-filter-widget-for-elementor.php:214
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: esz-woocommerce-product-filter-widget-for-elementor.php:216
+msgid "PHP"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:14
+#: inc/controller/Eszlwcf_Custom_Function.php:216
+#: widgets/product-filter.php:1102 widgets/product-filter.php:1205
+#: widgets/product-filter.php:1273 widgets/product-filter.php:1548
+#: widgets/product-filter.php:1600 widgets/product-filter.php:1631
+#: widgets/product-filter.php:2675
+msgid "Color"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:15
+msgid "Gradient"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:16
+#: inc/controller/Eszlwcf_Custom_Function.php:215
+msgid "Image"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:39 widgets/product-filter.php:596
+msgid "Filter Type"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:45
+msgid "Select Attribute Filter Type"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:48
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:53
+msgid "Term Color"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:50
+msgid "Select Attribute Color"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:55
+msgid "Select Attribute Color 2"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:58
+msgid "Term Image"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:62
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:115
+msgid "Add Image"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:63
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:116
+msgid "Remove Image"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:76
+msgid "Term Filter Type"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:89
+msgid "Term  Color"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:97
+msgid "Term  Color 2"
+msgstr ""
+
+#: inc/admin/Eszlwcf_Admin_Interfaces.php:105
+msgid "Term Attribute Image"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Ajax_Handler.php:135
+#: inc/controller/Eszlwcf_Ajax_Handler.php:140
+msgid "Clear All"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:66
+msgid "Product Attributes"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:67
+msgid "Product Taxonomies"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:68
+msgid "Product Info"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:140
+msgid "Product Price"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:141
+msgid "Product Status"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:142
+msgid "Product Rating"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:149
+msgid "Product Search"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:193
+msgid "Range"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:198
+#: inc/controller/Eszlwcf_Custom_Function.php:212
+#: widgets/product-filter.php:1812
+msgid "Select"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:203
+msgid "Ratings"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:208
+msgid "Search"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:213
+msgid "Checkbox"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:214
+msgid "Radio"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:217
+#: widgets/product-filter.php:1228 widgets/product-filter.php:1739
+#: widgets/product-filter.php:2639
+msgid "Button"
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:305
+#: inc/controller/Eszlwcf_Custom_Function.php:349
+msgid "Select...."
+msgstr ""
+
+#: inc/controller/Eszlwcf_Custom_Function.php:323
+msgid "%u star rating %s"
+msgstr ""
+
+#: templates/product/product-modal.php:71
+msgid "SKU:"
+msgstr ""
+
+#: templates/product/product-modal.php:72
+msgid "N/A"
+msgstr ""
+
+#: templates/product/product-modal.php:76
+msgid "<label>Category:</label>"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/product/product-modal.php:77
+msgid "<label>Tag:</label>"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/product/product.php:17
+msgid "Sale"
+msgstr ""
+
+#: templates/product-filter-main-view.php:41
+msgid "It will not display in live"
+msgstr ""
+
+#: templates/product-filter-main-view.php:41
+msgid "Preview for applied filters"
+msgstr ""
+
+#: templates/product-filter-main-view.php:49
+msgid "Sorting..."
+msgstr ""
+
+#: templates/product-filter-main-view.php:50
+msgid "By Name A-Z"
+msgstr ""
+
+#: templates/product-filter-main-view.php:51
+msgid "By Name Z-A"
+msgstr ""
+
+#: templates/product-filter-main-view.php:52
+msgid "By Price Low to High"
+msgstr ""
+
+#: templates/product-filter-main-view.php:53
+msgid "By Price High to Low"
+msgstr ""
+
+#: templates/product-filter-main-view.php:54
+msgid "Oldest"
+msgstr ""
+
+#: templates/product-filter-main-view.php:55
+msgid "Newest"
+msgstr ""
+
+#: templates/product-filter-main-view.php:68 widgets/product-filter.php:2274
+msgid "Loader"
+msgstr ""
+
+#: widgets/product-filter.php:39
+msgid "Product Filter"
+msgstr ""
+
+#: widgets/product-filter.php:116
+msgid "layout"
+msgstr ""
+
+#: widgets/product-filter.php:123
+msgid "Product Skin"
+msgstr ""
+
+#: widgets/product-filter.php:127
+msgid "classic"
+msgstr ""
+
+#: widgets/product-filter.php:128 widgets/product-filter.php:563
+msgid "Default"
+msgstr ""
+
+#: widgets/product-filter.php:135
+msgid "Product Column"
+msgstr ""
+
+#: widgets/product-filter.php:142
+msgid "1"
+msgstr ""
+
+#: widgets/product-filter.php:143
+msgid "2"
+msgstr ""
+
+#: widgets/product-filter.php:144
+msgid "3"
+msgstr ""
+
+#: widgets/product-filter.php:145
+msgid "4"
+msgstr ""
+
+#: widgets/product-filter.php:146
+msgid "5"
+msgstr ""
+
+#: widgets/product-filter.php:147
+msgid "6"
+msgstr ""
+
+#: widgets/product-filter.php:161
+msgid "Product"
+msgstr ""
+
+#: widgets/product-filter.php:178
+msgid "Thumbnail Ratio"
+msgstr ""
+
+#: widgets/product-filter.php:203 widgets/product-filter.php:658
+msgid "Title Tag"
+msgstr ""
+
+#: widgets/product-filter.php:222
+msgid "Display Button"
+msgstr ""
+
+#: widgets/product-filter.php:224 widgets/product-filter.php:236
+#: widgets/product-filter.php:247 widgets/product-filter.php:353
+#: widgets/product-filter.php:610
+msgid "Yes"
+msgstr ""
+
+#: widgets/product-filter.php:225 widgets/product-filter.php:237
+#: widgets/product-filter.php:248 widgets/product-filter.php:354
+#: widgets/product-filter.php:611
+msgid "No"
+msgstr ""
+
+#: widgets/product-filter.php:234
+msgid "Post Link to Title"
+msgstr ""
+
+#: widgets/product-filter.php:245
+msgid "Open in new window"
+msgstr ""
+
+#: widgets/product-filter.php:260
+msgid "Query"
+msgstr ""
+
+#: widgets/product-filter.php:267
+msgid "Products Per Page"
+msgstr ""
+
+#: widgets/product-filter.php:273
+msgid "For all Post enter 0"
+msgstr ""
+
+#: widgets/product-filter.php:279 widgets/product-filter.php:285
+msgid "Include By"
+msgstr ""
+
+#: widgets/product-filter.php:289
+msgid "Term"
+msgstr ""
+
+#: widgets/product-filter.php:290
+msgid "Attributes"
+msgstr ""
+
+#: widgets/product-filter.php:300 widgets/product-filter.php:320
+msgid "Select %s"
+msgstr ""
+
+#: widgets/product-filter.php:344
+msgid "Filter General"
+msgstr ""
+
+#: widgets/product-filter.php:351
+msgid "Display Sorting"
+msgstr ""
+
+#: widgets/product-filter.php:363
+msgid "Filter Heading Tag"
+msgstr ""
+
+#: widgets/product-filter.php:367
+msgid "H1"
+msgstr ""
+
+#: widgets/product-filter.php:368
+msgid "H2"
+msgstr ""
+
+#: widgets/product-filter.php:369
+msgid "H3"
+msgstr ""
+
+#: widgets/product-filter.php:370
+msgid "H4"
+msgstr ""
+
+#: widgets/product-filter.php:371
+msgid "H5"
+msgstr ""
+
+#: widgets/product-filter.php:372
+msgid "H6"
+msgstr ""
+
+#: widgets/product-filter.php:373
+msgid "P"
+msgstr ""
+
+#: widgets/product-filter.php:374
+msgid "span"
+msgstr ""
+
+#: widgets/product-filter.php:381
+msgid "List Position"
+msgstr ""
+
+#: widgets/product-filter.php:385 widgets/product-filter.php:797
+#: widgets/product-filter.php:2054
+msgid "Left"
+msgstr ""
+
+#: widgets/product-filter.php:389 widgets/product-filter.php:805
+#: widgets/product-filter.php:2062
+msgid "Right"
+msgstr ""
+
+#: widgets/product-filter.php:401
+msgid "Filter List Width"
+msgstr ""
+
+#: widgets/product-filter.php:431
+msgid "Filter List Spacing"
+msgstr ""
+
+#: widgets/product-filter.php:461 widgets/product-filter.php:544
+#: widgets/product-filter.php:586 widgets/product-filter.php:1096
+#: widgets/product-filter.php:1167 widgets/product-filter.php:1254
+#: widgets/product-filter.php:1728 widgets/product-filter.php:1847
+#: widgets/product-filter.php:1870 widgets/product-filter.php:1990
+#: widgets/product-filter.php:1999 widgets/product-filter.php:2490
+#: widgets/product-filter.php:2659
+msgid "%s"
+msgstr ""
+
+#: widgets/product-filter.php:468
+msgid "Choose Loader Image"
+msgstr ""
+
+#: widgets/product-filter.php:470
+msgid "If there is no Image selected Default will display"
+msgstr ""
+
+#: widgets/product-filter.php:483
+msgid "Icon"
+msgstr ""
+
+#: widgets/product-filter.php:496
+msgid "Load More Text"
+msgstr ""
+
+#: widgets/product-filter.php:498
+msgid "Load More"
+msgstr ""
+
+#: widgets/product-filter.php:499 widgets/product-filter.php:509
+#: widgets/product-filter.php:691
+msgid "Type your title here"
+msgstr ""
+
+#: widgets/product-filter.php:506
+msgid "Mobile Filter Text"
+msgstr ""
+
+#: widgets/product-filter.php:508 widgets/product-filter.php:520
+msgid "Filter"
+msgstr ""
+
+#: widgets/product-filter.php:510
+msgid "This Text will display on mobile filter button and heading of of filter panel"
+msgstr ""
+
+#: widgets/product-filter.php:527
+msgid "Select Filter Attributes"
+msgstr ""
+
+#: widgets/product-filter.php:558 widgets/product-filter.php:758
+msgid "Layout"
+msgstr ""
+
+#: widgets/product-filter.php:567
+msgid "Inline"
+msgstr ""
+
+#: widgets/product-filter.php:584
+msgid "Filter Label"
+msgstr ""
+
+#: widgets/product-filter.php:587
+msgid "Add Filter Label"
+msgstr ""
+
+#: widgets/product-filter.php:608
+msgid "Show Label"
+msgstr ""
+
+#: widgets/product-filter.php:623 widgets/product-filter.php:837
+msgid "%s Position"
+msgstr ""
+
+#: widgets/product-filter.php:644
+msgid "Quick View Modal"
+msgstr ""
+
+#: widgets/product-filter.php:681
+msgid "Not Found Product"
+msgstr ""
+
+#: widgets/product-filter.php:688
+msgid "Not Found Message"
+msgstr ""
+
+#: widgets/product-filter.php:690
+msgid "Sorry, There are no products matching your criteria."
+msgstr ""
+
+#: widgets/product-filter.php:765
+msgid "Column Spacing"
+msgstr ""
+
+#: widgets/product-filter.php:779
+msgid "Row Spacing"
+msgstr ""
+
+#: widgets/product-filter.php:793 widgets/product-filter.php:2050
+msgid "Alignment"
+msgstr ""
+
+#: widgets/product-filter.php:801 widgets/product-filter.php:2058
+msgid "Center"
+msgstr ""
+
+#: widgets/product-filter.php:822
+msgid "Positions"
+msgstr ""
+
+#: widgets/product-filter.php:857
+msgid "Product Box"
+msgstr ""
+
+#: widgets/product-filter.php:864 widgets/product-filter.php:2185
+msgid "Border"
+msgstr ""
+
+#: widgets/product-filter.php:879 widgets/product-filter.php:1383
+#: widgets/product-filter.php:1456 widgets/product-filter.php:1791
+#: widgets/product-filter.php:1820 widgets/product-filter.php:1896
+#: widgets/product-filter.php:1962 widgets/product-filter.php:2200
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/product-filter.php:896 widgets/product-filter.php:2085
+msgid "Style"
+msgstr ""
+
+#: widgets/product-filter.php:904 widgets/product-filter.php:1644
+#: widgets/product-filter.php:2093
+msgid "Normal"
+msgstr ""
+
+#: widgets/product-filter.php:911 widgets/product-filter.php:949
+#: widgets/product-filter.php:1304 widgets/product-filter.php:2111
+#: widgets/product-filter.php:2162 widgets/product-filter.php:2703
+msgid "Background"
+msgstr ""
+
+#: widgets/product-filter.php:932 widgets/product-filter.php:2135
+msgid "Hover"
+msgstr ""
+
+#: widgets/product-filter.php:938 widgets/product-filter.php:1289
+#: widgets/product-filter.php:1768 widgets/product-filter.php:1921
+#: widgets/product-filter.php:2151 widgets/product-filter.php:2688
+msgid "Border Color"
+msgstr ""
+
+#: widgets/product-filter.php:972 widgets/product-filter.php:1038
+#: widgets/product-filter.php:1065 widgets/product-filter.php:1133
+#: widgets/product-filter.php:1689 widgets/product-filter.php:1747
+#: widgets/product-filter.php:2218 widgets/product-filter.php:2405
+#: widgets/product-filter.php:2456 widgets/product-filter.php:2532
+#: widgets/product-filter.php:2584
+msgid "Spacing"
+msgstr ""
+
+#: widgets/product-filter.php:980 widgets/product-filter.php:1400
+#: widgets/product-filter.php:1477 widgets/product-filter.php:1520
+msgid "Padding"
+msgstr ""
+
+#: widgets/product-filter.php:997
+msgid "Content Padding"
+msgstr ""
+
+#: widgets/product-filter.php:1020
+msgid "Product Content"
+msgstr ""
+
+#: widgets/product-filter.php:1030
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/product-filter.php:1057 widgets/product-filter.php:2397
+msgid "Title"
+msgstr ""
+
+#: widgets/product-filter.php:1125 widgets/product-filter.php:2448
+msgid "Pricing"
+msgstr ""
+
+#: widgets/product-filter.php:1173 widgets/product-filter.php:2496
+msgid "%s Color"
+msgstr ""
+
+#: widgets/product-filter.php:1197
+msgid "Badge"
+msgstr ""
+
+#: widgets/product-filter.php:1216
+msgid "Badge Background Color"
+msgstr ""
+
+#: widgets/product-filter.php:1333 widgets/product-filter.php:2248
+#: widgets/product-filter.php:2732
+msgid "Button Padding"
+msgstr ""
+
+#: widgets/product-filter.php:1360
+msgid "Filter Box"
+msgstr ""
+
+#: widgets/product-filter.php:1367
+msgid "Filter List"
+msgstr ""
+
+#: widgets/product-filter.php:1377
+msgid "If you are enable box shadow please set appropriate margin for prevent confliction of design"
+msgstr ""
+
+#: widgets/product-filter.php:1417 widgets/product-filter.php:1494
+msgid "Margin"
+msgstr ""
+
+#: widgets/product-filter.php:1434
+msgid "Filter List Box"
+msgstr ""
+
+#: widgets/product-filter.php:1512
+msgid "Filter List Heading"
+msgstr ""
+
+#: widgets/product-filter.php:1561 widgets/product-filter.php:1780
+msgid "Background Color"
+msgstr ""
+
+#: widgets/product-filter.php:1575 widgets/product-filter.php:1582
+msgid "Filter List Item"
+msgstr ""
+
+#: widgets/product-filter.php:1613
+msgid "Filter List Range"
+msgstr ""
+
+#: widgets/product-filter.php:1650
+msgid " Bar Color "
+msgstr ""
+
+#: widgets/product-filter.php:1661
+msgid "Active"
+msgstr ""
+
+#: widgets/product-filter.php:1667
+msgid "Handle Bar Color "
+msgstr ""
+
+#: widgets/product-filter.php:1681
+msgid "Checkbox / Radio"
+msgstr ""
+
+#: widgets/product-filter.php:1859
+msgid "Color & Image"
+msgstr ""
+
+#: widgets/product-filter.php:1888
+msgid "Search Input"
+msgstr ""
+
+#: widgets/product-filter.php:1932
+msgid "Clear Options"
+msgstr ""
+
+#: widgets/product-filter.php:1941
+msgid "Border Size"
+msgstr ""
+
+#: widgets/product-filter.php:2020
+msgid "Option %s"
+msgstr ""
+
+#: widgets/product-filter.php:2043
+msgid "Load More Button"
+msgstr ""
+
+#: widgets/product-filter.php:2099 widgets/product-filter.php:2141
+msgid "Text Color"
+msgstr ""
+
+#: widgets/product-filter.php:2226
+msgid "Button margin"
+msgstr ""
+
+#: widgets/product-filter.php:2281
+msgid "Loader Image Size"
+msgstr ""
+
+#: widgets/product-filter.php:2300
+msgid "Loader Background Color"
+msgstr ""
+
+#: widgets/product-filter.php:2316
+msgid "Quick View Model"
+msgstr ""
+
+#: widgets/product-filter.php:2323
+msgid "Modal"
+msgstr ""
+
+#: widgets/product-filter.php:2331
+msgid "Modal Background Color"
+msgstr ""
+
+#: widgets/product-filter.php:2343
+msgid "Modal Overlay Color"
+msgstr ""
+
+#: widgets/product-filter.php:2354
+msgid "Quick View"
+msgstr ""
+
+#: widgets/product-filter.php:2362
+msgid "Icon Color"
+msgstr ""
+
+#: widgets/product-filter.php:2373
+msgid "Icon Background Color"
+msgstr ""
+
+#: widgets/product-filter.php:2386
+msgid "Modal Content"
+msgstr ""
+
+#: widgets/product-filter.php:2434 widgets/product-filter.php:2561
+#: widgets/product-filter.php:2613 widgets/product-filter.php:2624
+msgid "Title Color"
+msgstr ""
+
+#: widgets/product-filter.php:2523
+msgid "Product Description"
+msgstr ""
+
+#: widgets/product-filter.php:2575
+msgid "Product Meta"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Product Filter Widget for Elementor"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WooCommerce Product Filter plugin Provide you product list with many filter option such as category, tag attributes prices and much more."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Eshuzu"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://eshuzu.com/"
+msgstr ""
